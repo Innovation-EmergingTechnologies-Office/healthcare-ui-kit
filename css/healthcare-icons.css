@@ -88,8 +88,23 @@
     vertical-align: middle;
 }
 
+.hc-healthcare-1 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/044-healthcare-1.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
 
 .hc-stethoscope {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/017-stethoscope.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-stethoscope-1 {
     display: inline-block;
     width: 24px;
     height: 24px;
@@ -422,6 +437,14 @@
     vertical-align: middle;
 }
 
+.hc-health-screening {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/041-health-screening.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
 .hc-examination {
     display: inline-block;
     width: 24px;
@@ -461,6 +484,15 @@
     background: url('../svg/060-ambulance.svg') no-repeat center/contain;
     vertical-align: middle;
 }
+
+.hc-dental-checkup {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/054-dental-checkup.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
 
 
 
