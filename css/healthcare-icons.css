@@ -1,0 +1,468 @@
+.hc-patient {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/001-patient.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-patient-1 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/007-patient-1.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-biopsy {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/002-biopsy.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-breast-cancer {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/003-breast-cancer.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-injection {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/004-injection.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-doctor {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/009-doctor.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-doctor-1 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/014-doctor-1.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-nurse {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/010-nurse.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-pills {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/013-pills.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-radiation {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/015-radiation.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-healthcare {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/021-healthcare.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-stethoscope {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/022-stethoscope-1.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-hospital-bed {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/025-hospital-bed.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-hospital {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/026-hospital.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-blood-pressure {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/027-blood-pressure.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-ivf {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/033-ivf.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-drug {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/037-drug.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-bandage {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/038-bandage.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-checkup {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/042-check-up.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-checkup-1 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/055-checkup.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-physiotherapy {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/046-physiotherapy.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-pregnant {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/056-pregnant.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-band-aid {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/057-band-aid.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-first-aid-kit {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/058-first-aid-kit.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-care {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/001-care.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-lung-cancer {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/003-lung-cancer.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-chemotherapy {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/008-chemotherapy.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-cancer {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/011-cancer.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-flask {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/012-flask.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-dna {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/016-dna.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-heartbeat {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/018-heartbeat.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-charity {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/019-charity.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-prevention {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/020-prevention.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-monitoring {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/023-monitor.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-pediatric {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/024-pediatrics.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+.hc-blood-test {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/028-blood-test.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-sugar-blood-level {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/031-sugar-blood-level.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-analysis {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/029-analysis.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-diabetes {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/030-diabetes.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-hand {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/032-hand.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-lab {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/034-lab.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-medicine {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/035-medicine.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-medicine-1 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/036-medicine-1.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-medical-checkup {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/040-medical-checkup.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-heart-rate {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/043-heart-rate.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-nursing-home {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/045-nursing-home.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-physiotherapist {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/047-physiotherapist.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-doctor-appointment {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/048-doctor-appointment.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-schedule {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/049-schedule.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-health-check {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/050-health-check.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-examination {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/051-examination.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-examination-1 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/052-examination-1.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-body-check {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/053-body-check.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-compress {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/059-cpr.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+.hc-ambulance {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('../svg/060-ambulance.svg') no-repeat center/contain;
+    vertical-align: middle;
+}
+
+
+
+
+
