@@ -401,79 +401,42 @@ body {
 
 @media (max-width: 576px) {
     .navbar-brand, .navbar-nav .nav-link {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
 }
 
 @media (min-width: 576px) {
     .navbar-brand, .navbar-nav .nav-link {
-        font-size: 1.5rem;
+        font-size: 1.1rem;
     }
 }
 
 @media (min-width: 768px) {
     .navbar-brand, .navbar-nav .nav-link {
-        font-size: 1.8rem;
+        font-size: 1.2rem;
     }
 }
 
 @media (min-width: 992px) {
     .navbar-brand, .navbar-nav .nav-link {
-        font-size: 2rem;
+        font-size: 1.2rem;
     }
 }
 
 @media (min-width: 1200px) {
     .navbar-brand, .navbar-nav .nav-link {
-        font-size: 2.2rem;
+        font-size: 1.3rem;
     }
 }
 
 @media (min-width: 1400px) {
     .navbar-brand, .navbar-nav .nav-link {
-        font-size: 2.5rem;
+        font-size: 1.5rem;
     }
 }
 
 @media (min-width: 1600px) {
     .navbar-brand, .navbar-nav .nav-link {
-        font-size: 2.8rem;
+        font-size: 1.5rem;
     }
 }
-
-@media (min-width: 1800px) {
-    .navbar-brand, .navbar-nav .nav-link {
-        font-size: 3rem;
-    }
-}
-
-@media (min-width: 2000px) {
-    .navbar-brand, .navbar-nav .nav-link {
-        font-size: 3.2rem;
-    }
-}
-
-@media (min-width: 2200px) {
-    .navbar-brand, .navbar-nav .nav-link {
-        font-size: 3.5rem;
-    }
-}
-
-@media (min-width: 2400px) {
-    .navbar-brand, .navbar-nav .nav-link {
-        font-size: 3.8rem;
-    }
-}
-
-@media (min-width: 2600px) {
-    .navbar-brand, .navbar-nav .nav-link {
-        font-size: 4rem;
-    }
-}
-
-@media (min-width: 2800px) {
-    .navbar-brand, .navbar-nav .nav-link {
-        font-size: 4.2rem;
-    }
-}
-
